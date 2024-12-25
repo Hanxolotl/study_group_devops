@@ -11,4 +11,5 @@ Here we should cover the basics of containerisation and how to use containers on
 * Container basic security
 * Docker
 * Podman
+* Vagrant
 
